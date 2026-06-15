@@ -18,3 +18,4 @@ UPDATE: Cambios minimos a la interfaz
 UPDATE: Cambio a los botones y enlaces (Sean mas notorios)
 UPDATE: Añadimos un atajo de contacto/ayuda (Un atajo de nuestro telefono/Whatsapp, que lleva directamente a comunicarse con nosotros
 y ajustandose a la nesecidad del cliente, En caso de la version Android no la añadimos.)
+ 
