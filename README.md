@@ -1,12 +1,15 @@
 # Software De Aduanas
 
+Proyeto software de aduanas solicitado debido a la alta demanda de usuarios en hora punta
 
 
 # Version 0.1.0
 09/06/2026
 
-Creacion del sitio web y aplicacion
-CREATE: aduanas
+Creacion sitio web aduana adjustandose medianamente a las metricas entregadas (Heuristica-Nielsen)
+Nuestro sitio web se ha inspirado en 2 sitios webs distintos (ADUANAS CHILE, AIRPORT AIRLINES)
+
+CREATE: Sitio web de aduanas con 
 
 # Version 0.1.1
 15/06/2026 
@@ -24,9 +27,3 @@ UPDATE: Añadimos un atajo de contacto/ayuda (Un atajo de nuestro telefono/Whats
 y ajustandose a la nesecidad del cliente, En caso de la version Android no la añadimos.)
  
 
-
-
-
-
-
-#CREATE ADUANA
