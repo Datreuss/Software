@@ -56,3 +56,22 @@ UPDATE: Modificamos los URL y varia informacion del sistema evitando lenguaje ex
 
 UPDATE: Agregamos restricciones al sistema para no escribir SIMBOLOS DEL SISTEMA !"#$%&/()=?¡ Al crear una cuenta o buscar alguna busqueda dentro del sistema
 
+
+# Version 0.3.0
+23/06/2026
+Ultima modificacion Pre Release
+
+Con la ultima revicion del segundo ingeniero en informatica contactado pudimos hacer la ultima version y con este cerrando definitivamente la fase de diseño y pruebas
+Lo que comento el ingeniero: Para futuros proyectos siempre pongamos en que vista está la persona.
+Tipo, que en la esquina pongamos asi como "Iniciado como usuario" en el caso de que hayamos iniciado
+Pero que estaba bien para ser un proyecto nuevo
+
+
+UPDATE: Añadimos la vista de usuario
+
+UPDATE: Modificamos un poco la interfaz
+
+UPDATE: Agregamos un ''mini hud'' que indica que estas logeado y con la posibilidad de agregar una foto de perfil
+
+UPDATE: Diseñamos el icono que ya como se veria en el navegador y en aplicaciones moviles
+
